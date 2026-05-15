@@ -1,0 +1,5 @@
+{
+  "version": "1.1.2",
+  "downloadUrl": "https://github.com/anshulsing155/EAMAS/releases/download/v1.1.2/EAMAS-Setup-1.1.2.exe",
+  "releaseNotes": "Fixed: Sidebar toggle button could collapse but not re-expand (button was clipped outside visible area when sidebar was collapsed)"
+}
