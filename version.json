@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.0",
-    "downloadUrl":  "https://github.com/anshulsing155/EAMAS/releases/download/v1.2.0/EAMAS-Setup-1.2.0.exe",
-    "releaseNotes":  "Fix PDF export crash: QuestPDF single-child container violation — AlignCenter() was called after Text() had already claimed the container slot. Fixed by chaining AlignCenter() before Text() in PdfCell."
+    "version": "1.2.1",
+    "downloadUrl": "https://github.com/anshulsing155/EAMAS/releases/download/v1.2.1/EAMAS-Setup-1.2.1.exe",
+    "releaseNotes": "Break Time Tracking (Screen Lock): when the PC is locked, that time is now recorded as Break — separate from Active and Idle time. New KPI card on Dashboard, new column in Reports, included in all exports."
 }
