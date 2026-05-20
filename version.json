@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.3",
-    "downloadUrl":  "https://github.com/anshulsing155/EAMAS/releases/download/v1.2.3/EAMAS-Setup-1.2.3.exe",
-    "releaseNotes":  "v1.2.3 - Stability \u0026 Patch Release\n- Improved session stability and cleanup reliability\n- Minor UI polish and performance optimizations\n- Hardened offline cache sync robustness\n- Internal code quality improvements"
+    "version":  "1.3.0",
+    "downloadUrl":  "https://github.com/anshulsing155/EAMAS/releases/download/v1.3.0/EAMAS-Setup-1.3.0.exe",
+    "releaseNotes":  "v1.3.0 - Security \u0026 Reliability Hardening\n- Fixed 50+ security vulnerabilities identified in comprehensive audit\n- Added service-layer input validation and bounds checking\n- Added AI prompt injection protection (CRIT-03)\n- Hardened monitoring settings with enforced safe bounds (HIGH-03)\n- Fixed race conditions in AppUsage tracking (CRIT-08)\n- Added screenshot size and format validation (CRIT-11)\n- Improved session management - invalidate on password change (HIGH-07)\n- Added email validation on user creation (MED-18)\n- Enhanced encryption service with proper key disposal (HIGH-10)\n- Protected against clock manipulation in activity tracking\n- Added demo data seeder protection for production builds (CRIT-13)\n- Fixed SuperAdmin seeding race condition (HIGH-11)\n- Improved .gitignore with secret file exclusions (CRIT-10)\n- Sanitized PAT tokens from error logs (HIGH-09)"
 }
